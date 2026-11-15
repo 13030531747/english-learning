@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-next/
+.vite-cache-*/
+*.tmp.*
+.env
+.env.*
+!.env.example
